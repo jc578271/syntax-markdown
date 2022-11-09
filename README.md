@@ -1,6 +1,6 @@
 # syntax-markdown
 
 
-```objectivec
+```text
 #import ok
 ```
