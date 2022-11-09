@@ -1,6 +1,6 @@
 # syntax-markdown
 
 
-```objective-c
+```objectivec
 #import ok
 ```
